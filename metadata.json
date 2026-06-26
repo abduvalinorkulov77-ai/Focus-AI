@@ -1,0 +1,6 @@
+{
+  "name": "Focus AI",
+  "description": "Vaqtga asoslangan odatlar va vaqt kuzatuvchisi, AI maslahatchisi bilan integratsiya qilingan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
